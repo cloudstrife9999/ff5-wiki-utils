@@ -1,0 +1,180 @@
+Potion
+'''Guaranteed drop:''' [[Wyvern (Final Fantasy V)|Wyvern (regular)]], [[Tarantula (Final Fantasy V)|Tarantula]]<br/>
+'''Rare drop:''' [[Nutkin (Final Fantasy V)|Nutkin]], [[Big Horn (Final Fantasy V)|Big Horn]], [[Bandersnatch (Final Fantasy V)|Bandersnatch]], [[Elf Toad (Final Fantasy V)|Elf Toad (regular)]], [[Page 32 (Final Fantasy V)|Page 32]], [[Page 128|Page 128]], [[Bomb (Final Fantasy V)|Bomb]], [[Doublizard|Doublizard]], [[Sandboil (Final Fantasy V)|Sandboil]], [[Treant (Final Fantasy V)|Treant]], [[Merrow (Final Fantasy V)|Merrow]], [[Birostris (Final Fantasy V)|Birostris]], [[??? (Final Fantasy V)|???|???]], [[Dark Aspic (Final Fantasy V)|Dark Aspic]], [[Twin Lizard|Twin Lizard]], [[Rajiformes|Rajiformes]], [[Tiny Mage (Final Fantasy V)|Tiny Mage]], [[Spizzner|Spizzner]], [[Sucker (Final Fantasy V)|Sucker]], [[Octokraken (Final Fantasy V)|Octokraken]], [[Sahagin (Final Fantasy V)|Sahagin]], [[Water Scorpion (Final Fantasy V)|Water Scorpion]], [[Purobolos (Final Fantasy V)|Purobolos (boss)]], [[Abductor|Abductor (boss #270)]]<br/>
+'''Guaranteed common steal:''' [[Goblin (Final Fantasy V)|Goblin (regular)]], [[Stroper (Final Fantasy V)|Stroper]], [[Nutkin (Final Fantasy V)|Nutkin]], [[Black Goblin (Final Fantasy V)|Black Goblin]], [[Mani Wizard|Mani Wizard]], [[Calcruthl|Calcruthl]], [[Bandersnatch (Final Fantasy V)|Bandersnatch]], [[Rock Slug|Rock Slug]], [[Gaelicat (Final Fantasy V)|Gaelicat (regular)]], [[Gaelicat (Final Fantasy V)|Gaelicat (Metamorph)]], [[Elf Toad (Final Fantasy V)|Elf Toad (Metamorph)]], [[Wyvern (Final Fantasy V)|Wyvern (Metamorph)]], [[Pas de Seul|Pas de Seul]], [[Aegir (Final Fantasy V)|Aegir]], [[Wild Nakk (Final Fantasy V)|Wild Nakk]], [[Crew Dust|Crew Dust (Metamorph)]], [[Defeater|Defeater]], [[Sergeant (Final Fantasy V)|Sergeant]], [[Sergeant (Final Fantasy V)|Sergeant (Iron Claw)]], [[Cur Nakk|Cur Nakk]], [[Bomb (Final Fantasy V)|Bomb]], [[Sandboil (Final Fantasy V)|Sandboil]], [[Enchanted Fan (Final Fantasy V)|Enchanted Fan (Metamorph)]], [[Birostris (Final Fantasy V)|Birostris]], [[Acrophies (Final Fantasy V)|Acrophies]], [[Aquathorn|Aquathorn]], [[Weresnake|Weresnake]], [[Kornago|Kornago]], [[Zombie Dragon (Final Fantasy V)|Zombie Dragon (Metamorph)]], [[??? (Final Fantasy V)|???|???]], [[Level Tricker (Final Fantasy V)|Level Tricker]], [[Shiva (Final Fantasy V)|Shiva (Metamorph)]], [[Ifrit (Final Fantasy V)|Ifrit (Metamorph)]], [[Ramuh (Final Fantasy V)|Ramuh (Metamorph)]], [[Land Turtle (Final Fantasy V)|Land Turtle]], [[Imp (Final Fantasy V)|Imp (regular)]], [[Bulette (Final Fantasy V)|Bulette]], [[Spizzner|Spizzner]], [[Ironback (Final Fantasy V)|Ironback]], [[Mercury Bat (Final Fantasy V)|Mercury Bat]], [[Sahagin (Final Fantasy V)|Sahagin]], [[Water Scorpion (Final Fantasy V)|Water Scorpion]], [[Gel Fish|Gel Fish]], [[Wing Raptor|Wing Raptor (normal form - boss)]], [[Wing Raptor|Wing Raptor (closed form - boss)]], [[Karlabos (Final Fantasy V)|Karlabos (boss)]]<br/>
+'''Common steal:''' [[Undead Husk|Undead Husk]], [[Jackanapes (Final Fantasy V)|Jackanapes (Castle Exdeath)]], [[Mythril Dragon (Final Fantasy V)|Mythril Dragon]], [[Crew Dust|Crew Dust (regular)]], [[Page 32 (Final Fantasy V)|Page 32]], [[Page 64 (Final Fantasy V)|Page 64]], [[Enchanted Fan (Final Fantasy V)|Enchanted Fan (regular)]], [[Pao (Final Fantasy V)|Pao]], [[Cactus (Final Fantasy V)|Cactus]], [[Gobbledygook (Final Fantasy V)|Gobbledygook]], [[Imp (Final Fantasy V)|Imp (Castle Exdeath)]], [[Hellraiser (Final Fantasy V)|Hellraiser]], [[Magic Dragon (Final Fantasy V)|Magic Dragon]], [[Adamantite Golem (Final Fantasy V)|Adamantite Golem (regular)]], [[Iron Fist (Final Fantasy V)|Iron Fist]], [[Desertpede (Final Fantasy V)|Desertpede]], [[Zephyrus|Zephyrus]], [[Mummy (Final Fantasy V)|Mummy]], [[Slug (Final Fantasy V)|Slug]], [[Gloom Widow (Final Fantasy V)|Gloom Widow]], [[Oiseaurare (Final Fantasy V)|Oiseaurare (Castle Exdeath)]], [[Chrono Controller|Chrono Controller]], [[Unknown (Final Fantasy V)|Unknown (slime #169)]], [[Unknown (Final Fantasy V)|Unknown (worm #170)]], [[Unknown (Final Fantasy V)|Unknown (blob #171)]], [[Unknown (Final Fantasy V)|Unknown (skeleton #172)]], [[Druid (Final Fantasy V)|Druid]], [[Coral (Final Fantasy V)|Coral]], [[Aquagel|Aquagel]], [[Ankheg (Final Fantasy V)|Ankheg]], [[Level Checker (Final Fantasy V)|Level Checker]], [[Garula (Final Fantasy V)|Garula (boss)]], [[Flame Thrower (Final Fantasy V boss)|Flame Thrower (boss)]], [[Rocket Launcher (Final Fantasy V)|Rocket Launcher (boss)]], [[Titan (Final Fantasy V boss)|Titan (boss)]], [[Gil Turtle (Final Fantasy V)|Gil Turtle (boss #282)]], [[Gargoyle (Final Fantasy V)|Gargoyle (boss)]], [[Omniscient (Final Fantasy V)|Omniscient (boss)]], [[Alte Roite (Final Fantasy V)|Alte Roite (boss)]], [[Gil Turtle (Final Fantasy V)|Gil Turtle (Sealed Temple - boss)]]<br/>
+'''Rare steal:''' [[Ice Soldier (Final Fantasy V)|Ice Soldier]], [[Treant (Final Fantasy V)|Treant]], [[Fairy Orc|Fairy Orc]], [[Ammonite (Final Fantasy V)|Ammonite]]<br/>
+'''Unique rare steal:''' [[Steel Bat (Final Fantasy V)|Steel Bat]], [[Devil Crab (Final Fantasy V)|Devil Crab]], [[Killer Bee (Final Fantasy V)|Killer Bee]], [[Stray Cat (Final Fantasy V)|Stray Cat]], [[White Serpent|White Serpent]], [[Big Horn (Final Fantasy V)|Big Horn]], [[Tatou (Final Fantasy V)|Tatou]], [[Dark Aspic (Final Fantasy V)|Dark Aspic]]
+----------
+Hi-Potion
+'''Guaranteed drop:''' [[Grand Mummy (Final Fantasy V)|Grand Mummy]], [[Mini Satana (Final Fantasy V)|Mini Satana]], [[Dark Elemental (Final Fantasy V)|Dark Elemental (ice version #234)]], [[Exoray (Final Fantasy V)|Exoray]], [[Garula (Final Fantasy V)|Garula (boss)]], [[Launcher (Soul Cannon)|Launcher (boss #260)|Launcher (boss #260)]], [[Launcher (Soul Cannon)|Launcher (boss #261)|Launcher (boss #261)]], [[Titan (Final Fantasy V boss)|Titan (boss)]]<br/>
+'''Rare drop:''' [[Wyvern (Final Fantasy V)|Wyvern (Metamorph)]], [[Stone Golem (Final Fantasy V)|Stone Golem]], [[Shell Bear|Shell Bear]], [[Little Chariot|Little Chariot]], [[Fairy Orc|Fairy Orc]], [[Lesser Lopros (Final Fantasy V)|Lesser Lopros]], [[Weresnake|Weresnake]], [[Magnetite (Final Fantasy V)|Magnetite]], [[Level Tricker (Final Fantasy V)|Level Tricker]], [[Mammon (Final Fantasy V)|Mammon]], [[Imp (Final Fantasy V)|Imp (Castle Exdeath)]], [[Adamantite Golem (Final Fantasy V)|Adamantite Golem (regular)]], [[Bulette (Final Fantasy V)|Bulette]], [[Chrono Controller|Chrono Controller]], [[Frost Bull (Final Fantasy V)|Frost Bull]], [[Mercury Bat (Final Fantasy V)|Mercury Bat]], [[Ankheg (Final Fantasy V)|Ankheg]], [[Soul Cannon|Soul Cannon (Phoenix Tower)]], [[Corbett|Corbett]], [[Nix (Final Fantasy V)|Nix]], [[Gel Fish|Gel Fish]], [[Grenade (Final Fantasy V)|Grenade]], [[Gargoyle (Final Fantasy V)|Gargoyle (boss)]]<br/>
+'''Guaranteed common steal:''' [[Poltergeist (Final Fantasy V)|Poltergeist]], [[Dhorme Chimera (Final Fantasy V)|Dhorme Chimera (Zephyrus)]], [[Archeotoad|Archeotoad]], [[Kuza Beast (Final Fantasy V)|Kuza Beast (Phoenix Tower)]], [[Lesser Lopros (Final Fantasy V)|Lesser Lopros]], [[Adamantite Golem (Final Fantasy V)|Adamantite Golem (Zephyrus)]], [[Mini Satana (Final Fantasy V)|Mini Satana]], [[Assassin (Final Fantasy V)|Assassin]], [[Dark Elemental (Final Fantasy V)|Dark Elemental (ice version #234)]], [[Exoray (Final Fantasy V)|Exoray]], [[Ramuh (Final Fantasy V boss)|Ramuh (boss)]], [[Antlion (Final Fantasy V)|Antlion (boss)]]<br/>
+'''Common steal:''' [[Page 256 (Final Fantasy V)|Page 256]], [[Ronkan Knight|Ronkan Knight (regular)]], [[Treant (Final Fantasy V)|Treant]], [[Objet d'Art (Final Fantasy V)|Objet d'Art]], [[Abductor|Abductor (Castle Exdeath)]], [[Red Dragon (Final Fantasy V)|Red Dragon (regular)]], [[Grand Mummy (Final Fantasy V)|Grand Mummy]], [[Sekhmet (Final Fantasy V)|Sekhmet]], [[Oiseaurare (Final Fantasy V)|Oiseaurare (regular)]], [[Ammonite (Final Fantasy V)|Ammonite]], [[Rukh (Final Fantasy V)|Rukh]], [[Sea Devil (Final Fantasy V)|Sea Devil]], [[Grenade (Final Fantasy V)|Grenade]], [[Moss Fungus (Final Fantasy V)|Moss Fungus]], [[Gorgimera (Final Fantasy V)|Gorgimera]], [[Shiva (Final Fantasy V boss)|Shiva (boss)]], [[Abductor|Abductor (boss #270)]], [[Gilgamesh  (Final Fantasy V boss)|Gilgamesh  (normal form - boss #284)]], [[Barrier (Final Fantasy V boss)|Barrier (boss)]]<br/>
+'''Rare steal:''' [[Headstone (Final Fantasy V)|Headstone]], [[Jackanapes (Final Fantasy V)|Jackanapes (Castle Exdeath)]], [[Hydra (Final Fantasy V)|Hydra]], [[Pao (Final Fantasy V)|Pao]], [[Gobbledygook (Final Fantasy V)|Gobbledygook]], [[Metamorph (Final Fantasy V)|Metamorph]], [[Imp (Final Fantasy V)|Imp (Castle Exdeath)]], [[Hellraiser (Final Fantasy V)|Hellraiser]], [[Magic Dragon (Final Fantasy V)|Magic Dragon]], [[Adamantite Golem (Final Fantasy V)|Adamantite Golem (regular)]], [[Sleepy (Final Fantasy V)|Sleepy]], [[Mummy (Final Fantasy V)|Mummy]], [[Aspis (Final Fantasy V)|Aspis]], [[Slug (Final Fantasy V)|Slug]], [[Gloom Widow (Final Fantasy V)|Gloom Widow]], [[Oiseaurare (Final Fantasy V)|Oiseaurare (Castle Exdeath)]], [[Unknown (Final Fantasy V)|Unknown (slime #169)]], [[Unknown (Final Fantasy V)|Unknown (worm #170)]], [[Unknown (Final Fantasy V)|Unknown (blob #171)]], [[Unknown (Final Fantasy V)|Unknown (skeleton #172)]], [[Aquagel|Aquagel]], [[Ankheg (Final Fantasy V)|Ankheg]], [[Nix (Final Fantasy V)|Nix]], [[Garula (Final Fantasy V)|Garula (boss)]], [[Gil Turtle (Final Fantasy V)|Gil Turtle (boss #282)]], [[Gil Turtle (Final Fantasy V)|Gil Turtle (Sealed Temple - boss)]]<br/>
+'''Unique rare steal:''' [[Devourer (Final Fantasy V)|Devourer]], [[Moogle Eater (Final Fantasy V)|Moogle Eater]], [[Lycaon (Final Fantasy V)|Lycaon]], [[Gravitator|Gravitator]], [[Cure Beast|Cure Beast]], [[Dechirer|Dechirer]], [[Mammon (Final Fantasy V)|Mammon]], [[Twin Lizard|Twin Lizard]], [[Shadow (Final Fantasy V)|Shadow]], [[Frost Bull (Final Fantasy V)|Frost Bull]], [[Magic Pot (Final Fantasy V)|Magic Pot]]
+----------
+Phoenix Down
+'''Guaranteed drop:''' [[Ghidra (Final Fantasy V)|Ghidra (regular)]], [[Behemoth (Final Fantasy V)|Behemoth]], [[Wing Raptor|Wing Raptor (normal form - boss)]], [[Wing Raptor|Wing Raptor (closed form - boss)]], [[Chimera Brain (Final Fantasy V)|Chimera Brain (boss)]]<br/>
+'''Rare drop:''' [[Jackanapes (Final Fantasy V)|Jackanapes (regular)]], [[Page 64 (Final Fantasy V)|Page 64]], [[Dhorme Chimera (Final Fantasy V)|Dhorme Chimera (regular)]], [[Kuza Beast (Final Fantasy V)|Kuza Beast (Phoenix Tower)]], [[Gobbledygook (Final Fantasy V)|Gobbledygook]], [[Hellraiser (Final Fantasy V)|Hellraiser]], [[Bandercoeurl (Final Fantasy V)|Bandercoeurl (regular)]], [[Druid (Final Fantasy V)|Druid]], [[Death Dealer (Final Fantasy V)|Death Dealer]], [[Orukat (Final Fantasy V)|Orukat]], [[Dragon Flower|Dragon Flower (old version - boss)]], [[Dragon Flower|Dragon Flower (poison version - boss)]], [[Dragon Flower|Dragon Flower (darkness version - boss)]], [[Dragon Flower|Dragon Flower (paralyze version - boss)]], [[Dragon Flower|Dragon Flower (confuse version - boss)]]<br/>
+'''Guaranteed common steal:''' [[Behemoth (Final Fantasy V)|Behemoth]], [[Ifrit (Final Fantasy V boss)|Ifrit (boss)]], [[Archeodemon (Final Fantasy V)|Archeodemon (boss)]]<br/>
+'''Common steal:''' [[King Behemoth (Final Fantasy V)|King Behemoth]], [[Pantera (Final Fantasy V)|Pantera (boss)]], [[Twintania (Final Fantasy V)|Twintania (normal form - boss)]], [[Exdeath (tree form)|Exdeath (boss #313)|Exdeath (boss #313)]]<br/>
+'''Rare steal:''' [[Shiva (Final Fantasy V boss)|Shiva (boss)]], [[Gargoyle (Final Fantasy V)|Gargoyle (boss)]]<br/>
+'''Unique rare steal:''' [[Tunneller (Final Fantasy V)|Tunneller (regular)]], [[Bandercoeurl (Final Fantasy V)|Bandercoeurl (regular)]], [[Archeosaur|Archeosaur]], [[Catoblepas (Final Fantasy V boss)|Catoblepas (boss)]]
+----------
+Ether
+'''Guaranteed drop:''' [[Dark Elemental (Final Fantasy V)|Dark Elemental (lightning version #235)]], [[Abductor|Abductor (boss # 266)]]<br/>
+'''Rare drop:''' [[Gaelicat (Final Fantasy V)|Gaelicat (Metamorph)]], [[Sorcerer (Final Fantasy V)|Sorcerer]], [[Tunneller (Final Fantasy V)|Tunneller (regular)]], [[Bone Dragon (Final Fantasy V)|Bone Dragon (regular)]], [[Galajelly|Galajelly]], [[Reflect Mage|Reflect Mage]], [[Oiseaurare (Final Fantasy V)|Oiseaurare (Castle Exdeath)]], [[White Flame (Final Fantasy V)|White Flame]]<br/>
+'''Guaranteed common steal:''' [[Motor Trap|Motor Trap]], [[Page 128|Page 128]], [[Prototype (Final Fantasy V)|Prototype]], [[Dark Elemental (Final Fantasy V)|Dark Elemental (lightning version #235)]], [[Launcher (Soul Cannon)|Launcher (boss #260)|Launcher (boss #260)]], [[Launcher (Soul Cannon)|Launcher (boss #261)|Launcher (boss #261)]]<br/>
+'''Common steal:''' [[Hydra (Final Fantasy V)|Hydra]], [[Mecha Head|Mecha Head]], [[Soul Cannon|Soul Cannon (Phoenix Tower)]], [[Crystelle|Crystelle]], [[Soul Cannon|Soul Cannon (boss)]], [[Atomos (Final Fantasy V)|Atomos (boss)]]<br/>
+'''Rare steal:''' [[Undead Husk|Undead Husk]], [[Yellow Dragon (Final Fantasy V)|Yellow Dragon]], [[Tot Aevis (Final Fantasy V)|Tot Aevis]], [[Level Checker (Final Fantasy V)|Level Checker]], [[Flame Thrower (Final Fantasy V boss)|Flame Thrower (boss)]], [[Rocket Launcher (Final Fantasy V)|Rocket Launcher (boss)]]<br/>
+'''Unique rare steal:''' [[Devilfish (Final Fantasy V)|Devilfish]], [[Executor|Executor]], [[Tiny Mage (Final Fantasy V)|Tiny Mage]]
+----------
+Antidote
+'''Guaranteed drop:''' [[Sand Bear (Final Fantasy V)|Sand Bear]]<br/>
+'''Rare drop:''' [[Bio Soldier|Bio Soldier (regular)]], [[Desert Killer|Desert Killer]], [[Flying Killer (Final Fantasy V)|Flying Killer]], [[Tunneller (Final Fantasy V)|Tunneller (Zephyrus)]], [[Aquathorn|Aquathorn]], [[Poison Eagle (Final Fantasy V)|Poison Eagle]], [[Aspis (Final Fantasy V)|Aspis]], [[Moss Fungus (Final Fantasy V)|Moss Fungus]]<br/>
+'''Guaranteed common steal:''' [[Wyrm (Final Fantasy V)|Wyrm]], [[Python (Final Fantasy V)|Python]], [[Dinozombie (Final Fantasy V)|Dinozombie]]<br/>
+'''Common steal:''' [[Bio Soldier|Bio Soldier (Zephyrus)]], [[Aspis (Final Fantasy V)|Aspis]], [[Istory Lythos|Istory Lythos]], [[Nix (Final Fantasy V)|Nix]]<br/>
+'''Rare steal:''' [[Mandrake (Final Fantasy V)|Mandrake]], [[Desertpede (Final Fantasy V)|Desertpede]]
+----------
+Eye Drops
+'''Rare drop:''' [[Crew Dust|Crew Dust (Metamorph)]], [[Sergeant (Final Fantasy V)|Sergeant (Iron Claw)]], [[Kornago|Kornago]], [[Blind Wolf (Final Fantasy V)|Blind Wolf]], [[Python (Final Fantasy V)|Python]], [[Farfarello|Farfarello]]<br/>
+'''Guaranteed common steal:''' [[Tunneller (Final Fantasy V)|Tunneller (Zephyrus)]], [[Galajelly|Galajelly]]<br/>
+'''Common steal:''' [[Mandrake (Final Fantasy V)|Mandrake]], [[White Flame (Final Fantasy V)|White Flame]]<br/>
+'''Rare steal:''' [[Crew Dust|Crew Dust (regular)]]<br/>
+'''Unique rare steal:''' [[Blind Wolf (Final Fantasy V)|Blind Wolf]], [[Purobolos (Final Fantasy V)|Purobolos (boss)]]
+----------
+Gold Needle
+'''Guaranteed drop:''' [[Medusa (Final Fantasy V)|Medusa]], [[Catastrophe (Final Fantasy V)|Catastrophe (boss)]]<br/>
+'''Rare drop:''' [[Gatling (Final Fantasy V)|Gatling]], [[Silent Bee|Silent Bee]], [[Objet d'Art (Final Fantasy V)|Objet d'Art]], [[Adamantite Golem (Final Fantasy V)|Adamantite Golem (Zephyrus)]], [[Hedgehog (Final Fantasy V)|Hedgehog]], [[Sea Ibis (Final Fantasy V)|Sea Ibis]], [[Death Claw (Final Fantasy V enemy)|Death Claw]]<br/>
+'''Guaranteed common steal:''' [[Cockatrice (Final Fantasy V)|Cockatrice]], [[Stone Golem (Final Fantasy V)|Stone Golem]], [[Stone Mask (Final Fantasy V)|Stone Mask]], [[Bone Dragon (Final Fantasy V)|Bone Dragon (regular)]], [[Bandercoeurl (Final Fantasy V)|Bandercoeurl (Phoenix Tower)]], [[Hedgehog (Final Fantasy V)|Hedgehog]], [[Medusa (Final Fantasy V)|Medusa]], [[Golem (Final Fantasy V boss)|Golem (boss)]]<br/>
+'''Common steal:''' [[Triton|Triton (boss)]], [[Nereid (Final Fantasy V)|Nereid (boss)]], [[Phobos|Phobos (boss)]]<br/>
+'''Rare steal:''' [[Cactus (Final Fantasy V)|Cactus]], [[Orukat (Final Fantasy V)|Orukat]]<br/>
+'''Unique rare steal:''' [[Gatling (Final Fantasy V)|Gatling]], [[Sea Ibis (Final Fantasy V)|Sea Ibis]]
+----------
+Maiden's Kiss
+'''Rare drop:''' [[Elf Toad (Final Fantasy V)|Elf Toad (Metamorph)]], [[Melusine (Final Fantasy V)|Melusine (fire form - boss)]], [[Melusine (Final Fantasy V)|Melusine (ice form - boss)]], [[Melusine (Final Fantasy V)|Melusine (lightning form - boss)]], [[Melusine (Final Fantasy V)|Melusine (physical form - boss)]]<br/>
+'''Guaranteed common steal:''' [[Garula (Final Fantasy V)|Garula (regular)]], [[Cursed Being|Cursed Being]]<br/>
+'''Common steal:''' [[Lamia (Final Fantasy V)|Lamia]], [[Lamia Queen (Final Fantasy V)|Lamia Queen]], [[Alchymia|Alchymia]], [[Vilia (Final Fantasy V)|Vilia]]
+----------
+Mallet
+'''Rare drop:''' [[Shadow Dancer|Shadow Dancer]]<br/>
+'''Guaranteed common steal:''' [[Liquid Flame (Final Fantasy V)|Liquid Flame (Phoenix Tower)]]<br/>
+'''Common steal:''' [[Byblos (Final Fantasy V)|Byblos (boss)]]
+----------
+Holy Water
+'''Guaranteed drop:''' [[Soul Eater (Final Fantasy V)|Soul Eater]]<br/>
+'''Rare drop:''' [[Blood Slime|Blood Slime]], [[Lycaon (Final Fantasy V)|Lycaon]], [[Dechirer|Dechirer]], [[Shadow (Final Fantasy V)|Shadow]], [[Mummy (Final Fantasy V)|Mummy]], [[The Damned|The Damned]], [[Oiseaurare (Final Fantasy V)|Oiseaurare (regular)]], [[Ammonite (Final Fantasy V)|Ammonite]], [[Necromancer (Final Fantasy V enemy)|Necromancer]]<br/>
+'''Guaranteed common steal:''' [[Blood Slime|Blood Slime]], [[Soul Eater (Final Fantasy V)|Soul Eater]]<br/>
+'''Common steal:''' [[Fairy Orc|Fairy Orc]], [[Death Dealer (Final Fantasy V)|Death Dealer]], [[Necromancer (Final Fantasy V enemy)|Necromancer]]<br/>
+'''Rare steal:''' [[Grand Mummy (Final Fantasy V)|Grand Mummy]], [[Alte Roite (Final Fantasy V)|Alte Roite (boss)]]<br/>
+'''Unique rare steal:''' [[The Damned|The Damned]]
+----------
+Tent
+'''Guaranteed drop:''' [[Pao (Final Fantasy V)|Pao]], [[Karlabos (Final Fantasy V)|Karlabos (boss)]]<br/>
+'''Rare drop:''' [[Tatou (Final Fantasy V)|Tatou]], [[Drippy (Final Fantasy V)|Drippy]], [[Ironback (Final Fantasy V)|Ironback]]<br/>
+'''Guaranteed common steal:''' [[Skull Eater (Final Fantasy V)|Skull Eater]], [[Duelist (Final Fantasy V)|Duelist]]<br/>
+'''Unique rare steal:''' [[Sandcrawler (Final Fantasy V)|Sandcrawler]]
+----------
+Cottage
+'''Guaranteed drop:''' [[Duelist (Final Fantasy V)|Duelist]], [[Antlion (Final Fantasy V)|Antlion (boss)]]<br/>
+'''Guaranteed common steal:''' [[Grand Aevis (Final Fantasy V)|Grand Aevis (boss)]]<br/>
+'''Common steal:''' [[Yojimbo (Final Fantasy V)|Yojimbo]]<br/>
+'''Rare steal:''' [[Blue Dragon (Final Fantasy V)|Blue Dragon]], [[Catastrophe (Final Fantasy V)|Catastrophe (boss)]]
+----------
+Elixir
+'''Guaranteed drop:''' [[Gilgamesh (Final Fantasy V boss)|Gilgamesh (boss #267)]], [[Dragon Pod|Dragon Pod (boss)]]<br/>
+'''Rare drop:''' [[Moldwynd|Moldwynd]], [[Calcruthl|Calcruthl]], [[Undead Husk|Undead Husk]], [[Jackanapes (Final Fantasy V)|Jackanapes (Castle Exdeath)]], [[Zu (Final Fantasy V)|Zu]], [[Skull Eater (Final Fantasy V)|Skull Eater]], [[Ra Mage|Ra Mage]], [[Enchanted Fan (Final Fantasy V)|Enchanted Fan (Metamorph)]], [[Kuza Beast (Final Fantasy V)|Kuza Beast (regular)]], [[Cure Beast|Cure Beast]], [[Magic Dragon (Final Fantasy V)|Magic Dragon]], [[Bandercoeurl (Final Fantasy V)|Bandercoeurl (Phoenix Tower)]], [[Red Dragon (Final Fantasy V)|Red Dragon (regular)]], [[Zephyrus|Zephyrus]], [[Alchymia|Alchymia]], [[Landcrawler|Landcrawler]], [[Magic Pot (Final Fantasy V)|Magic Pot]], [[Level Checker (Final Fantasy V)|Level Checker]], [[Achelon (Final Fantasy V)|Achelon]], [[Tyrannosaur (Final Fantasy V)|Tyrannosaur (boss)]]<br/>
+'''Guaranteed common steal:''' [[Gigas (Final Fantasy V)|Gigas]], [[Leviathan (Final Fantasy V boss)|Leviathan (boss)]], [[Omega Mk.II|Omega Mk.II (lightning form - boss)]], [[Omega Mk.II|Omega Mk.II (ice form - boss)]], [[Omega Mk.II|Omega Mk.II (fire form - boss)]], [[Neo Shinryu|Neo Shinryu (vulnerable form - boss)]]<br/>
+'''Common steal:''' [[Flaremancer|Flaremancer]], [[Crystal Dragon (Final Fantasy V)|Crystal Dragon]], [[Exdeath (boss)|Exdeath (boss #285)|Exdeath (boss #285)]], [[Azulmagia (Final Fantasy V)|Azulmagia (boss)]], [[Catastrophe (Final Fantasy V)|Catastrophe (boss)]], [[Necrophobe (Final Fantasy V)|Necrophobe (boss)]]<br/>
+'''Rare steal:''' [[Jackanapes (Final Fantasy V)|Jackanapes (regular)]], [[Enchanted Fan (Final Fantasy V)|Enchanted Fan (regular)]], [[Zephyrus|Zephyrus]], [[Tonberry (Final Fantasy V)|Tonberry]], [[White Flame (Final Fantasy V)|White Flame]], [[Soul Cannon|Soul Cannon (boss)]], [[Pantera (Final Fantasy V)|Pantera (boss)]], [[Triton|Triton (boss)]], [[Nereid (Final Fantasy V)|Nereid (boss)]], [[Phobos|Phobos (boss)]]<br/>
+'''Unique rare steal:''' [[Zu (Final Fantasy V)|Zu]], [[Strapparer|Strapparer]], [[Crystal (Final Fantasy V boss)|Crystal (boss #277)]], [[Crystal (Final Fantasy V boss)|Crystal (boss #278)]], [[Crystal (Final Fantasy V boss)|Crystal (boss #279)]], [[Crystal (Final Fantasy V boss)|Crystal (boss #280)]]
+----------
+Goliath Tonic
+'''Guaranteed drop:''' [[Gigas (Final Fantasy V)|Gigas]], [[Ziggurat Gigas (Final Fantasy V)|Ziggurat Gigas (Zephyrus)]], [[Iron Giant (Final Fantasy V)|Iron Giant]], [[Archeoaevis (Final Fantasy V)|Archeoaevis (wind form - boss)]]<br/>
+'''Rare drop:''' [[Ziggurat Gigas (Final Fantasy V)|Ziggurat Gigas (regular)]], [[Elm Gigas (Final Fantasy V)|Elm Gigas]], [[Iron Muscles (Final Fantasy V)|Iron Muscles]], [[Unknown (Final Fantasy V)|Unknown (slime #169)]], [[Rukh (Final Fantasy V)|Rukh]], [[Phobos|Phobos (boss)]]<br/>
+'''Guaranteed common steal:''' [[Iron Muscles (Final Fantasy V)|Iron Muscles]]<br/>
+'''Rare steal:''' [[Carbuncle (Final Fantasy V boss)|Carbuncle (elemental form - boss)]], [[Carbuncle (Final Fantasy V boss)|Carbuncle (healing form - boss)]]
+----------
+Power Drink
+'''Guaranteed drop:''' [[Sandcrawler (Final Fantasy V)|Sandcrawler]], [[Forza|Forza (boss)]], [[Archeoaevis (Final Fantasy V)|Archeoaevis (ice form - boss)]]<br/>
+'''Rare drop:''' [[Dueling Knight|Dueling Knight]], [[Unknown (Final Fantasy V)|Unknown (worm #170)]], [[Nereid (Final Fantasy V)|Nereid (boss)]]<br/>
+'''Guaranteed common steal:''' [[Rajiformes|Rajiformes]]<br/>
+'''Common steal:''' [[Ziggurat Gigas (Final Fantasy V)|Ziggurat Gigas (Zephyrus)]], [[Triffid (Final Fantasy V)|Triffid]], [[Dueling Knight|Dueling Knight]]<br/>
+'''Rare steal:''' [[Ronkan Knight|Ronkan Knight (regular)]], [[Great Dragon (Final Fantasy V)|Great Dragon]]
+----------
+Speed Shake
+'''Guaranteed drop:''' [[Flame Thrower (Final Fantasy V boss)|Flame Thrower (boss)]], [[Archeoaevis (Final Fantasy V)|Archeoaevis (fire form - boss)]]<br/>
+'''Rare drop:''' [[Defeater|Defeater]], [[Black Flame|Black Flame]], [[Neon (Final Fantasy V)|Neon]], [[Triffid (Final Fantasy V)|Triffid]], [[Mecha Head|Mecha Head]], [[Unknown (Final Fantasy V)|Unknown (blob #171)]], [[Aquagel|Aquagel]]<br/>
+'''Guaranteed common steal:''' [[Neon (Final Fantasy V)|Neon]]<br/>
+'''Common steal:''' [[Berserker (Final Fantasy V enemy)|Berserker]], [[Farfarello|Farfarello]]<br/>
+'''Unique rare steal:''' [[Black Flame|Black Flame]]
+----------
+Iron Draft
+'''Guaranteed drop:''' [[Byblos (Final Fantasy V)|Byblos (boss)]], [[Rocket Launcher (Final Fantasy V)|Rocket Launcher (boss)]], [[Archeoaevis (Final Fantasy V)|Archeoaevis (lightning form - boss)]]<br/>
+'''Rare drop:''' [[Dhorme Chimera (Final Fantasy V)|Dhorme Chimera (Zephyrus)]], [[Undergrounder (Final Fantasy V)|Undergrounder]], [[Ushabti|Ushabti]], [[Unknown (Final Fantasy V)|Unknown (skeleton #172)]], [[Triton|Triton (boss)]]<br/>
+'''Guaranteed common steal:''' [[Adamantoise (Final Fantasy V)|Adamantoise (boss)]]<br/>
+'''Common steal:''' [[Jackanapes (Final Fantasy V)|Jackanapes (regular)]]<br/>
+'''Rare steal:''' [[Triffid (Final Fantasy V)|Triffid]], [[Coral (Final Fantasy V)|Coral]]
+----------
+Hero Cocktail
+'''Guaranteed drop:''' [[Archeoaevis (Final Fantasy V)|Archeoaevis (revived form - boss)]]<br/>
+'''Rare drop:''' [[Cursed Being|Cursed Being]], [[Iron Fist (Final Fantasy V)|Iron Fist]]<br/>
+'''Guaranteed common steal:''' [[Ronkan Knight|Ronkan Knight (Zephyrus)]], [[Iron Claw (Final Fantasy V)|Iron Claw (boss)]]<br/>
+'''Common steal:''' [[Death Claw (Final Fantasy V enemy)|Death Claw]], [[Gilgamesh (Final Fantasy V boss)|Gilgamesh (boss #268)]]<br/>
+'''Rare steal:''' [[Steel Fist|Steel Fist]]<br/>
+'''Unique rare steal:''' [[Elm Gigas (Final Fantasy V)|Elm Gigas]]
+----------
+Turtle Shell
+'''Guaranteed drop:''' [[Grass Tortoise (Final Fantasy V)|Grass Tortoise]], [[Land Turtle (Final Fantasy V)|Land Turtle]], [[Adamantoise (Final Fantasy V)|Adamantoise (boss)]]<br/>
+'''Rare drop:''' [[Sea Devil (Final Fantasy V)|Sea Devil]], [[Carbuncle (Final Fantasy V boss)|Carbuncle (elemental form - boss)]], [[Carbuncle (Final Fantasy V boss)|Carbuncle (healing form - boss)]]<br/>
+'''Common steal:''' [[Baldanders|Baldanders]], [[Achelon (Final Fantasy V)|Achelon]], [[Jura Aevis (Final Fantasy V)|Jura Aevis (boss)]]<br/>
+'''Unique rare steal:''' [[Grass Tortoise (Final Fantasy V)|Grass Tortoise]]
+----------
+Dragon Fang
+'''Guaranteed drop:''' [[Zombie Dragon (Final Fantasy V)|Zombie Dragon (regular)]], [[Archeosaur|Archeosaur]], [[Dragon Aevis (Final Fantasy V)|Dragon Aevis]], [[Dinozombie (Final Fantasy V)|Dinozombie]], [[Claret Dragon (Final Fantasy V)|Claret Dragon]], [[Jura Aevis (Final Fantasy V)|Jura Aevis (boss)]]<br/>
+'''Rare drop:''' [[Hydra (Final Fantasy V)|Hydra]], [[Zombie Dragon (Final Fantasy V)|Zombie Dragon (Metamorph)]], [[Wyrm (Final Fantasy V)|Wyrm]], [[Blue Dragon (Final Fantasy V)|Blue Dragon]], [[Istory Lythos|Istory Lythos]], [[Great Dragon (Final Fantasy V)|Great Dragon]], [[Bahamut (Final Fantasy V boss)|Bahamut (boss)]]<br/>
+'''Guaranteed common steal:''' [[Bahamut (Final Fantasy V boss)|Bahamut (boss)]]<br/>
+'''Common steal:''' [[Blue Dragon (Final Fantasy V)|Blue Dragon]], [[Great Dragon (Final Fantasy V)|Great Dragon]], [[Chimera Brain (Final Fantasy V)|Chimera Brain (boss)]], [[Shinryu (Final Fantasy V)|Shinryu (boss)]]<br/>
+'''Rare steal:''' [[Ghidra (Final Fantasy V)|Ghidra (Alchymia)]], [[Bone Dragon (Final Fantasy V)|Bone Dragon (Alchymia)]], [[Red Dragon (Final Fantasy V)|Red Dragon (Alchymia)]]<br/>
+'''Unique rare steal:''' [[Mini Dragon (Final Fantasy V)|Mini Dragon]]
+----------
+Dark Matter
+'''Guaranteed drop:''' [[Prototype (Final Fantasy V)|Prototype]], [[Exdeath's Soul|Exdeath's Soul]], [[Soul Cannon|Soul Cannon (boss)]], [[Atomos (Final Fantasy V)|Atomos (boss)]]<br/>
+'''Rare drop:''' [[Ghidra (Final Fantasy V)|Ghidra (Alchymia)]], [[Bone Dragon (Final Fantasy V)|Bone Dragon (Alchymia)]], [[Red Dragon (Final Fantasy V)|Red Dragon (Alchymia)]], [[Desertpede (Final Fantasy V)|Desertpede]]<br/>
+'''Guaranteed common steal:''' [[Wendigo (Final Fantasy V)|Wendigo (boss)]]<br/>
+'''Common steal:''' [[Stingray (Final Fantasy V)|Stingray]], [[Orukat (Final Fantasy V)|Orukat]]<br/>
+'''Rare steal:''' [[Byblos (Final Fantasy V)|Byblos (boss)]]<br/>
+'''Unique rare steal:''' [[Zombie Dragon (Final Fantasy V)|Zombie Dragon (regular)]]
+----------
+Buckshot
+'''Guaranteed common steal:''' [[Dark Elemental (Final Fantasy V)|Dark Elemental (fire version #233)]]
+----------
+Blastshot
+'''Guaranteed drop:''' [[Dark Elemental (Final Fantasy V)|Dark Elemental (fire version #233)]]<br/>
+'''Guaranteed common steal:''' [[Claret Dragon (Final Fantasy V)|Claret Dragon]], [[Launcher (Guardian)|Launcher (boss #318)|Launcher (boss #318)]], [[Launcher (Guardian)|Launcher (boss #319)|Launcher (boss #319)]]
+----------
+Blitzshot
+'''Guaranteed common steal:''' [[Guardian (Final Fantasy V)|Guardian (boss)]], [[Wave Cannon (Final Fantasy V)|Wave Cannon (boss)]]
+----------
+Magic Lamp
+
+----------
+Ramuh
+'''Guaranteed drop:''' [[Ramuh (Final Fantasy V boss)|Ramuh (boss)]]
+----------
+Catoblepas
+'''Guaranteed drop:''' [[Catoblepas (Final Fantasy V boss)|Catoblepas (boss)]]
+----------
+Golem
+'''Guaranteed drop:''' [[Golem (Final Fantasy V boss)|Golem (boss)]]
+----------
+Dragon Seal
+'''Guaranteed drop:''' [[Shinryu (Final Fantasy V)|Shinryu (boss)]]
+----------
+Omega Badge
+'''Guaranteed drop:''' [[Omega (Final Fantasy V)|Omega (boss)]]
+----------
+Medal of Smiting
+
+----------
