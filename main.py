@@ -6,7 +6,7 @@ from ff5_wiki.item import FF5Item
 
 
 if __name__ == "__main__":
-    bestiary = FF5Bestiary(enemy_list_file=FF5Wiki.ENEMY_FILE, boss_list_file=FF5Wiki.BOSS_FILE)
+    bestiary: FF5Bestiary = FF5Bestiary(enemy_list_file=FF5Wiki.ENEMY_FILE, boss_list_file=FF5Wiki.BOSS_FILE)
     item_list: list[str] = []
 
     with open(FF5Wiki.ITEM_FILE, "r") as i_f:
